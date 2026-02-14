@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "コイスルオトメ",
+  "base_artist": "SUPER BEAVER",
+  "createdAt": "2026-02-14T15:43:47.785006Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "コイスルオトメ",
+      "artist": "Ikimonogakari",
+      "has_synced": false,
+      "path": "select/01_コイスルオトメ_Ikimonogakari.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "コイスルオトメ",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/02_コイスルオトメ_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "コイスルオトメ -instrumental-",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/03_コイスルオトメ_-instrumental-_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "コイスルオトメ -激情編-",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/04_コイスルオトメ_-激情編-_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "コイスルオトメ",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/05_コイスルオトメ_いきものがかり.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "コイスルオトメ",
+      "artist": "Ikimono-gakari",
+      "has_synced": true,
+      "path": "select/06_コイスルオトメ_Ikimono-gakari.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "コイスルオトメ-instrumental-",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/07_コイスルオトメ-instrumental-_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "コイスルオトメ -激情編-",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/08_コイスルオトメ_-激情編-_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "コイスルオトメ - Koisuruotome",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/09_コイスルオトメ_-_Koisuruotome_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "5.コイスルオトメ",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/10_5.コイスルオトメ_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "コイスルオトメ (Koisuruotome / 사랑에 빠진 아가씨) (니혼TV계 『연애부활 러브카츠』 엔딩 테마, 니혼TV계 '음악전사 Music Fighter' Power Play)",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/11_コイスルオトメ_(Koisuruotome___사랑에_빠진_아가씨)_(니혼TV계_『연애부활_러브카츠』_엔딩_테마,_니혼TV계_'음악전사_Music__Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "コイスルオトメ -激情编-",
+      "artist": "生物股长",
+      "has_synced": true,
+      "path": "select/12_コイスルオトメ_-激情编-_生物股长.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "コイスルオトメ",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/13_コイスルオトメ_いきものがかり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コイスルオトメ",
+      "artist": "SUPER BEAVER",
+      "has_synced": false,
+      "path": "select/pl_01_コイスルオトメ_SUPER_BEAVER.txt"
+    }
+  ]
+}
